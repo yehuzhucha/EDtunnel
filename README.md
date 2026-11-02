@@ -51,7 +51,7 @@ ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 1. got to `https://proxyip.edtunnel.best/` paste your `ProxyIP:proxyport` and click `Check` button.
 2. if `Proxy IP` is `true`, you can use this `ProxyIP:proxyport` as `ProxyIP`
 3. if `Proxy IP` is `false`, you can see `Origin` is `443` this means the port can be accessed website.
-4. edit worker `PROXYIP` variable example `211.230.110.231:50008`
+4. edit worker `PROXYIP` variable example `YOUR_PROXY_IP:50008`
 
 Note: the proxyIP with port may not vaild some cloudflare site that use http only.
 
